@@ -1,1 +1,1 @@
-genAI and AgenticAI documents
+GenAI and AgenticAI documents
